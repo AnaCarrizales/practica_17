@@ -17,7 +17,7 @@
 
 const mongoose = require('mongoose');
 mongoose.connect(
-`mongodb+srv://fbs619:fbs12345@cluster0.ernhq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`,
+`mongodb+srv://AnaCarrizales:<password>@cluster0.ozcjg.mongodb.net/?retryWrites=true&w=majority`,
 {
 useNewUrlParser: true,
 useUnifiedTopology: true
